@@ -23,6 +23,7 @@ namespace MigracionTest
             services.AddControllersWithViews();
             services.AddDI();
             services.AddDbServices(Configuration);
+            services.AddCors();
 
             services.AddSpaStaticFiles(configuration =>
             {
@@ -35,6 +36,7 @@ namespace MigracionTest
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseCors();
             }
             else
             {

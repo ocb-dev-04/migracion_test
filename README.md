@@ -1,2 +1,2 @@
-# migracion_test
-Una app de test
+# Recordar:
+Ajustar la cadena de conexion

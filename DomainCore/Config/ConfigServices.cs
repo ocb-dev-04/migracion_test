@@ -13,11 +13,11 @@ namespace DomainCore.Config
             this IServiceCollection services,
             IConfiguration Configuration)
         {
-            //services.AddDbContext<AppDbContext>(options =>
-            //    options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            
             services.AddDbContext<AppDbContext>(options =>
-                options.UseInMemoryDatabase("TestDB"));
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            //services.AddDbContext<AppDbContext>(options =>
+            //    options.UseInMemoryDatabase("TestDB"));
         }
 
         #endregion

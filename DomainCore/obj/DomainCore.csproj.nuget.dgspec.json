@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev_code\\migracion_test\\MigracionTest\\DomainCore\\DomainCore.csproj": {}
+    "C:\\dev_code\\migracion_test\\migracion_test\\DomainCore\\DomainCore.csproj": {}
   },
   "projects": {
-    "C:\\dev_code\\migracion_test\\MigracionTest\\DomainCore\\DomainCore.csproj": {
+    "C:\\dev_code\\migracion_test\\migracion_test\\DomainCore\\DomainCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev_code\\migracion_test\\MigracionTest\\DomainCore\\DomainCore.csproj",
+        "projectUniqueName": "C:\\dev_code\\migracion_test\\migracion_test\\DomainCore\\DomainCore.csproj",
         "projectName": "DomainCore",
-        "projectPath": "C:\\dev_code\\migracion_test\\MigracionTest\\DomainCore\\DomainCore.csproj",
+        "projectPath": "C:\\dev_code\\migracion_test\\migracion_test\\DomainCore\\DomainCore.csproj",
         "packagesPath": "C:\\Users\\OCB\\.nuget\\packages\\",
-        "outputPath": "C:\\dev_code\\migracion_test\\MigracionTest\\DomainCore\\obj\\",
+        "outputPath": "C:\\dev_code\\migracion_test\\migracion_test\\DomainCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OCB\\AppData\\Roaming\\NuGet\\NuGet.Config",

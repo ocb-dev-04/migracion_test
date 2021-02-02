@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "31J2N2wOa2Pm59rYmwM2ZOU5igfWX/nsO6+LP1fYnK4XcU8Hjtg6tD2lusS96q6wX1ynTcfskwSlTpKCO6BepA==",
+  "dgSpecHash": "ZuyQJAgAB1JXHJ0+Nf+tP9Z2kp3/do4p7y0Lre8720UbcBRYteQIYaA0U7GvNxzyL7kXIrcTXbFonA2ft8RUsg==",
   "success": true,
-  "projectFilePath": "C:\\dev_code\\migracion_test\\MigracionTest\\DomainCore\\DomainCore.csproj",
+  "projectFilePath": "C:\\dev_code\\migracion_test\\migracion_test\\DomainCore\\DomainCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OCB\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\OCB\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

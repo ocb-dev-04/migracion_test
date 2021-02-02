@@ -1,0 +1,11 @@
+C:\dev_code\migracion_test\migracion_test\DomainCore\bin\Debug\netcoreapp3.1\DomainCore.deps.json
+C:\dev_code\migracion_test\migracion_test\DomainCore\bin\Debug\netcoreapp3.1\DomainCore.runtimeconfig.json
+C:\dev_code\migracion_test\migracion_test\DomainCore\bin\Debug\netcoreapp3.1\DomainCore.runtimeconfig.dev.json
+C:\dev_code\migracion_test\migracion_test\DomainCore\bin\Debug\netcoreapp3.1\DomainCore.dll
+C:\dev_code\migracion_test\migracion_test\DomainCore\bin\Debug\netcoreapp3.1\DomainCore.pdb
+C:\dev_code\migracion_test\migracion_test\DomainCore\obj\Debug\netcoreapp3.1\DomainCore.AssemblyInfoInputs.cache
+C:\dev_code\migracion_test\migracion_test\DomainCore\obj\Debug\netcoreapp3.1\DomainCore.AssemblyInfo.cs
+C:\dev_code\migracion_test\migracion_test\DomainCore\obj\Debug\netcoreapp3.1\DomainCore.csproj.CoreCompileInputs.cache
+C:\dev_code\migracion_test\migracion_test\DomainCore\obj\Debug\netcoreapp3.1\DomainCore.dll
+C:\dev_code\migracion_test\migracion_test\DomainCore\obj\Debug\netcoreapp3.1\DomainCore.pdb
+C:\dev_code\migracion_test\migracion_test\DomainCore\obj\Debug\netcoreapp3.1\DomainCore.genruntimeconfig.cache
